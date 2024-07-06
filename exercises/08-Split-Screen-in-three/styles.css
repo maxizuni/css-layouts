@@ -1,12 +1,23 @@
 body {
 	margin: 0;
 }
+#wrapper {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
 #sectionA {
 	background: blue;
+	width: 33%;
+	height: 476px;
 }
 #sectionB {
 	background: red;
+	width: 33%;
+	height: 476px;
 }
 #sectionC {
 	background: green;
+	width: 33%;
+	height: 476px;
 }

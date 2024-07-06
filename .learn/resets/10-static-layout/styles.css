@@ -1,39 +1,4 @@
 /* your code here */
-* {
-	margin: 0 auto;
-}
-h1 {
-	font-size: 50px;
-	padding-bottom: 50px;
-}
-header {
-	width: 95%;
-	height: 80px;
-	font-size: 30px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-nav {
-	width: 20%;
-	font-size: 30px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-section {
-	width: 80%;
-	font-size: 30px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-.secondWrapper {
-	display: flex;
-	height: 500px;
-	width: 95%;
-	gap: 20px;
-}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
